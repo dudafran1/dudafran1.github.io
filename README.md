@@ -2,11 +2,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu currículo</title>
+
 </head>
 <body> 
     <img src="duda.jpeg" alt="">
-    <p>________________________________________________________________________________________________________________________________________________________________</p>
+    
     <h1>Eduarda Francielle Rodrigues Flauzino</h1>
 Nacionalidade: Brasileira <br>
 Natural de Uberaba                                Minas Gerais <br>
